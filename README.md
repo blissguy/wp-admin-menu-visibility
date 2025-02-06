@@ -33,7 +33,7 @@ The plugin will then dynamically hide or show the selected admin menu and admin 
 
 ## Screenshots
 
-*[It would be great to add screenshots here showcasing the settings page and the effect on the admin menu/bar.  If you provide screenshots, I can help you integrate them into the README.]*
+![CleanShot 2025-02-06 at 11  43 23](https://github.com/user-attachments/assets/5bcf9c19-6db4-4fdf-9e12-dc623dd4a7c8)
 
 ## Contributing
 
